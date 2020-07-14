@@ -1,0 +1,7 @@
+string_length 1.785
+tee_height 0.945
+bat_xpos_0 0.955
+ball_mass 0.145
+mass_aluminum 0.593
+mass_wood 0.711
+mass_plastic 0.060
